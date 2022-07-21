@@ -42,5 +42,5 @@ Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Christian-Boettcher&show_icons=true&theme=dark&locale=en" alt="stats" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christian-boettcher&theme=monokai" alt="trophies" /></a>
-</p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christian-boettcher&theme=monokai" alt="trophies" /></a>
+</p> -->
